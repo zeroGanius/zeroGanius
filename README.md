@@ -50,7 +50,7 @@
 [github]: https://github.com/hadikachmar3
 [email]: mailto:flutterer.dev@gmail.com
 [facebook]: https://www.facebook.com/Coding-with-Hadi-113431577650864/
-[discord]: https://discord.gg/831073676715491389
+[discord]: https://discordapp.com/users/831073676715491389
 
 <h2><samp>💪 STRONG STACK</samp></h2>
 
