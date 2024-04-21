@@ -46,7 +46,7 @@
 
 [udemy]: https://www.udemy.com/user/hadi-kachmar-2/
 [youtube]: https://www.youtube.com/channel/UCTGDYkqUtgCelc6G09LUm6w
-[linkedin]: https://www.linkedin.com/in/hadi-kachmar-27a56a177/
+[linkedin]: https://www.linkedin.com/in/isagani-balignasay-7a4735210/
 [github]: https://github.com/hadikachmar3
 [email]: mailto:flutterer.dev@gmail.com
 [facebook]: https://www.facebook.com/Coding-with-Hadi-113431577650864/
