@@ -48,7 +48,6 @@
 [facebook]: https://www.facebook.com/Coding-with-Hadi-113431577650864/
 [discord]: https://discord.gg/MhnKaY5qdK
 
-
 <h2><samp>💪 STRONG STACK</samp></h2>
 
 <p style="padding: 0px 20px">
