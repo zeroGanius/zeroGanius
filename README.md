@@ -24,9 +24,17 @@
    </i>
 </p>
 <!--  Stats -->
+
 <p align= "center">
    <img height= "150" src="https://github-readme-stats.vercel.app/api?username=hadikachmar3&show_icons=true&theme=radical" />
    <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadikachmar3&layout=compact&show_icons=true&theme=radical" />
+</p>
+<img width='100%' src="https://github-profile-trophy.vercel.app/?username=rookiemonkey&theme=oldie&title=Commit,Issues,Stars,PullRequest,Repositories,Followers">
+
+<p align="center">
+<img width="49%" heigth="100%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api?username=rookiemonkey&show_icons=true&line_height=27&count_private=true&theme=gotham&card_width=300&include_all_commits=true" />
+
+<img width="49%" heigth="100%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rookiemonkey&hide=html,css,scss,sass=html&theme=gotham&langs_count=6&layout=compact" />
 </p>
 
 </br>
