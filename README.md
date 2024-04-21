@@ -1,9 +1,9 @@
 <!-- ME  -->
 <h1 align="center">Hi 👋, I'm 
-  <a href="https://hadikachmar3.github.io/">Hadi Kachmar </a>
+  <a href="https://github.com/zeroGaniu">Isagani Balignasay Jr. </a>
 </h1>
 <!--  What am I? -->
-<h3 align="center">Data scientist | Dual Masters | Mobile developer & Instructor</h3>
+<h3 align="center">Front-end Developer | Digital Marketer | SEO Expert</h3>
 
 <br/>
 <!-- Social -->
@@ -24,7 +24,7 @@
 </p>
 <!--  Stats -->
 <p align= "center">
-   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=hadikachmar3&show_icons=true&theme=radical" />
+   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=zeroGanius&show_icons=true&theme=radical" />
    <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadikachmar3&layout=compact&show_icons=true&theme=radical" />
 </p>
 
