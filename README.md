@@ -1,29 +1,10 @@
-### Hi there 👋
-
-<!--
-**zeroGanius/zeroGanius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <img src='https://github-readme-stats.vercel.app/api?username=zeroGanius&show_icons=true&theme=ambient_gradient'/>
-
 <!-- ME  -->
 <h1 align="center">Hi 👋, I'm 
-  <a href="https://hadikachmar3.github.io/">Hadi Kachmar </a>
+  <a href="https://github.com/zeroGanius/">Isagani Balignasay Jr. </a>
 </h1>
 <!--  What am I? -->
-<h3 align="center">Data scientist | Dual Masters | Mobile developer & Instructor</h3>
+<h3 align="center">Front-end Web Developer | Digital Marketer | SEO Expert</h3>
 
 <br/>
 <!-- Social -->
