@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![zeroGanius's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroGanius&theme=ambient_gradient_icons=true)
+
+[![zeroGanius's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroGanius)](https://github.com/zeroGanius/github-readme-stats)
