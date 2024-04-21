@@ -37,33 +37,7 @@
 - 💬 Ask me about **Flutter&Dart&Firebase&AI**
 - 📫 &ensp;How to reach me: [**Linkedin**][linkedin] or [**Email**][email] or [**Facebook**][facebook]
 - 🍺 Fun fact : I Always try to learn something new and then sleep till it store in the brain 😎
-
-### 📺 &ensp;Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Flutter Tutorial - Flutter 3.0 - WEB image picker](https://youtu.be/VMmQ0Gx7LAA)
-- [Flutter Tutorial - Flutter 2.0 , Implement Search in Flutter on a listview](https://www.youtube.com/watch?v=XIyyZpZiHWc&t=9s)
-- [Flutter Tutorial - Flutter 3.0 & Stripe Payment integration with Firebase #Stripe](https://youtu.be/BR4sF_VzV0w)
-- [Flutter Tutorial - Google sign in](https://www.youtube.com/watch?v=S0PsfbyVIhk)
-- [Flutter Tutorial - Flutter Video Player in details](https://www.youtube.com/watch?v=N0lUBVYl1hI)
-- [Flutter Tutorial - image picker using camera and gallery, with cool design](https://www.youtube.com/watch?v=7G9cVze5eJU)
-<!-- YOUTUBE:END -->
-
-➡️ &ensp;[More Videos...](https://www.youtube.com/channel/UCTGDYkqUtgCelc6G09LUm6w/videos)
-
- 
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/hadikachmae"> 
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hadikachmae" />
-  </a>
-</p>
-
-<!--  Trophies-->
-<!-- </br></br></br><hr></br>
-<p align="center"> 
-    <img src="https://github-profile-trophy.vercel.app/?username=hadikachmar3&theme=radical" alt="hadikachmar3" />
-</p>
+  
 </br> -->
 
 [udemy]: https://www.udemy.com/user/hadi-kachmar-2/
