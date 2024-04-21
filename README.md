@@ -24,7 +24,7 @@
 </p>
 <!--  Stats -->
 <p align= "center">
-   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=zeroGanius&show_icons=true&theme=nord" />
+   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=zeroGanius&show_icons=true&theme=graywhite" />
    <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroGanius&layout=compact&show_icons=true&theme=radical" />
 </p>
 
