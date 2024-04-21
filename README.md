@@ -1,4 +1,3 @@
-<img src='https://github-readme-stats.vercel.app/api?username=zeroGanius&show_icons=true&theme=ambient_gradient'/>
 <!-- ME  -->
 <h1 align="center">Hi 👋, I'm 
   <a href="https://github.com/zeroGanius/">Isagani Balignasay Jr. </a>
@@ -25,7 +24,7 @@
 </p>
 <!--  Stats -->
 <p align= "center">
-   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=zeroGanius&show_icons=true&theme=radical" />
+   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=zeroGanius&show_icons=true&theme=ambient_gradient" />
    <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroGanius&layout=compact&show_icons=true&theme=radical" />
 </p>
 
