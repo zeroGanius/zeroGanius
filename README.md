@@ -1,21 +1,20 @@
 <!-- ME  -->
 <h1 align="center">Hi 👋, I'm 
-  <a href="https://github.com/zeroGanius/">Isagani Balignasay Jr. </a>
+  <a href="https://hadikachmar3.github.io/">Hadi Kachmar </a>
 </h1>
 <!--  What am I? -->
-<h3 align="center">Front-end Web Developer | Digital Marketer | SEO Expert</h3>
+<h3 align="center">Data scientist | Dual Masters | Mobile developer & Instructor</h3>
 
 <br/>
 <!-- Social -->
 
-[![Youtube](https://img.shields.io/static/v1?label=Coding%20with%20Hadi&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)]
-[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)]
-[![Linkedin: HadiKachmar](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/hadi-kachmar-27a56a177/)]
-[![Facebook: HadiKachmar](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]
-[![Discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge)].
-[![GitHub followers](https://img.shields.io/github/followers/hadikachmar3?logo=GitHub&style=for-the-badge)]
-
-<br/>
+[![Youtube](https://img.shields.io/static/v1?label=Coding%20with%20Hadi&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube] 
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)][udemy]
+[![Linkedin: HadiKachmar](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/hadi-kachmar-27a56a177/)][linkedin]
+[![Facebook: HadiKachmar](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][facebook]
+[![Discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge)][discord]
+[![GitHub followers](https://img.shields.io/github/followers/hadikachmar3?logo=GitHub&style=for-the-badge)][github]
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=hadikachmar3.visitor-badge) **Added on 02/11/2022**
 
 <p align="center"> 
    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/> 
@@ -25,11 +24,9 @@
 </p>
 <!--  Stats -->
 <p align= "center">
-   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=zeroGanius&show_icons=true&theme=holi" />
-   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroGanius&layout=compact&show_icons=true&theme=radical" />
+   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=hadikachmar3&show_icons=true&theme=radical" />
+   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadikachmar3&layout=compact&show_icons=true&theme=radical" />
 </p>
-
-
 
 </br>
 
