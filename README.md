@@ -6,15 +6,6 @@
 <h3 align="center">Front-end Developer | Digital Marketer | SEO Expert</h3>
 
 <br/>
-
-<!-- ME  -->
-<h1 align="center">Hi 👋, I'm 
-  <a href="https://hadikachmar3.github.io/">Hadi Kachmar </a>
-</h1>
-<!--  What am I? -->
-<h3 align="center">Data scientist | Dual Masters | Mobile developer & Instructor</h3>
-
-<br/>
 <!-- Social -->
 
 [![Youtube](https://img.shields.io/static/v1?label=Coding%20with%20Hadi&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube] 
