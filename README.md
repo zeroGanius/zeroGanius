@@ -1,4 +1,5 @@
 <!-- ME  -->
+
 <h1 align="center">Hi 👋, I'm 
   <a href="https://github.com/zeroGaniu">Isagani Balignasay Jr. </a>
 </h1>
@@ -6,6 +7,7 @@
 <h3 align="center">Front-end Developer | Digital Marketer | SEO Expert</h3>
 
 <br/>
+
 <!-- Social -->
 
 [![Youtube](https://img.shields.io/static/v1?label=Coding%20with%20Hadi&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube] 
@@ -27,8 +29,6 @@
    <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadikachmar3&layout=compact&show_icons=true&theme=radical" />
 </p>
 
-
-
 </br>
 
 - 🔭 I’m currently working on **Machine learning - Emotion recognition and sentiment analysis task**
@@ -47,7 +47,6 @@
 [email]: mailto:flutterer.dev@gmail.com
 [facebook]: https://www.facebook.com/Coding-with-Hadi-113431577650864/
 [discord]: https://discord.gg/MhnKaY5qdK
-[![GitHub visitor](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=hadikachmar3&repo=Bgstatic&countColorcountColor&countColor=%23007EC6)][github]
 
 
 <h2><samp>💪 STRONG STACK</samp></h2>
