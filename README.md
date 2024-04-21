@@ -25,8 +25,8 @@
 </p>
 <!--  Stats -->
 <p align= "center">
-   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=hadikachmar3&show_icons=true&theme=radical" />
-   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadikachmar3&layout=compact&show_icons=true&theme=radical" />
+   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=zeroGanius&show_icons=true&theme=radical" />
+   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroGanius&layout=compact&show_icons=true&theme=radical" />
 </p>
 
 
