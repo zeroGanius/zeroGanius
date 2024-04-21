@@ -38,7 +38,7 @@
 - 📫 &ensp;How to reach me: [**Linkedin**][linkedin] or [**Email**][email] or [**Facebook**][facebook]
 - 🍺 Fun fact : I Always try to learn something new and then sleep till it store in the brain 😎
   
-</br> -->
+</br>
 
 [udemy]: https://www.udemy.com/user/hadi-kachmar-2/
 [youtube]: https://www.youtube.com/channel/UCTGDYkqUtgCelc6G09LUm6w
