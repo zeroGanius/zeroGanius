@@ -30,219 +30,85 @@
 - 📫 &ensp;How to reach me: [**Linkedin**][linkedin] or [**Email**][email] or [**Facebook**][facebook]
 - 🍺 Fun fact : I Always try to learn something new and then sleep till it store in the brain 😎
 
-<!--  Udemy courses-->
-<h3>
-  <a href="https://www.udemy.com/user/hadi-kachmar-2/">
-    👨‍🏫 Udemy courses by me
-  </a>
-</h3>
-  
-<p align= "center">
-    <a href="https://www.udemy.com/course/flutter-310-firebase-build-an-e-commerce-and-admin-app/?referralCode=A4F9F133D8C6ECA8CCA8">
-     <kbd>
-        <img height= "150" src="https://img-c.udemycdn.com/course/750x422/5246870_67ad_4.jpg" alt="Flutter shop course">
-        <br>
-        <font size="1">Flutter 3.10 & Firebase:<br>build an E-commerce and Admin App</font>
-        <br><br>
-        <font size="2"> 4.6 ⭐ </font>
-     </kbd>
-  </a>
-  <a href="https://www.udemy.com/course/build-chatgpt-app-in-flutter-using-openai-api/?referralCode=271157BBF67BFA21C9F4">
-     <kbd>
-        <img height= "150" src="https://user-images.githubusercontent.com/38382273/219823750-1871244b-ce20-479b-8093-55f73f4dfa79.jpg" alt="Flutter ChatGPT course">
-        <br>
-        <font size="1">Build ChatGPT App in Flutter<br>using OpenAI API</font>
-        <br><br>
-        <font size="2"> 5.0 ⭐ </font>
-     </kbd>
-  </a>  
-  <a href="https://www.udemy.com/course/flutter-30-rest-api-from-scratch-build-a-store-app/?referralCode=7D80FFB59F0D7663FEC1">
-     <kbd>
-        <img height= "150" src="https://user-images.githubusercontent.com/38382273/219823924-180f273a-e69d-4c51-b31a-6a189853a45a.png" alt="Flutter 3.0 & Rest API from scratch, build a mini Store app">
-        <br>
-        <font size="1">Flutter 3.0 & Rest API from scratch,<br>build a mini Store app</font>
-        <br><br>
-        <font size="2"> 5.0 ⭐ </font>
-     </kbd>
-  </a>
-  <a href="https://www.udemy.com/course/flutter-30rest-api-crash-course-build-a-news-app-from-zero/?referralCode=51B0E1AC01B51390185B">
-     <kbd>
-        <img height= "150" src="https://user-images.githubusercontent.com/38382273/176717061-1dc49177-c9a4-4206-9e1b-4f9c20686185.png" alt="Flutter Rest API course">
-        <br>
-        <font size="1">Flutter 3.0&Rest API crash course <br> build a News app from zero</font>
-        <br><br>
-        <font size="2"> 5.0 ⭐ </font>
-     </kbd>
-  </a>
-  <a href="https://www.udemy.com/course/flutter-210firebase-build-a-grocery-app-with-admin-panel/?referralCode=B6FA32F8946EF083C9A2">
-     <kbd>
-        <img height= "150" src="https://user-images.githubusercontent.com/38382273/169706415-db712fed-3620-42ae-af77-6befcbc65d81.png" alt="Flutter Grocery course">
-        <br>
-        <font size="1">Flutter 3.0&Firebase <br> Build a grocery app with Admin Panel</font>
-        <br><br>
-        <font size="2"> 4.8 ⭐ </font>
-     </kbd>
-  </a>
-  <a href="https://www.udemy.com/course/flutter-with-firebase-build-an-e-commerce-app-from-scratch/">
-     <kbd>
-        <img height= "150" src="https://cdn-thumbs.comidoc.net/750/webp/3715884_a2d1_3.webp" alt="Flutter shop course">
-        <br>
-        <font size="1">Flutter with Firebase&Stripe<br>Build shop app from scratch</font>
-        <br><br>
-        <font size="2"> 4.4 ⭐ </font>
-     </kbd>
-  </a>
-<!--   <a href="https://www.udemy.com/course/flutter-22-firebase-build-a-complete-app-from-scratch/">
-     <kbd>
-        <img height= "150" src="https://user-images.githubusercontent.com/38382273/140496712-67888490-e76e-4320-930f-89c6ece4e4bd.png" alt="Flutter WorkOS Course [EN]">
-        <br>
-        <font size="1">Flutter 2.2 & Firebase,<br>build a complete app from scratch [EN]</font>
-        <br><br>
-        <font size="2"> 4.8 ⭐ </font>
-     </kbd>
-  </a>
-  <a href="https://www.udemy.com/course/flutter-22firebase/">
-     <kbd>
-        <img height= "150" src="https://user-images.githubusercontent.com/38382273/140496706-c08a629a-9372-4416-804e-f3d45f0cb59d.png" alt="Flutter WorkOS Course [AR]">
-        <br>
-        <font size="1">Flutter 2.2 & Firebase,<br>build a complete app from scratch [AR]</font>
-        <br><br>
-        <font size="2"> 4.8 ⭐ </font>
-      </kbd>
-   </a> -->
+<h2><samp>💪 STRONG STACK</samp></h2>
+
+<p style="padding: 0px 20px">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
+    <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge">
+    <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<!--  Skills -->
-<p align="left">
-<!-- Flutter     -->
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a>
-<!--   Dart   -->
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-  </a> 
-<!--  Android  -->
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>     </a>
-<!-- Java   -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-<!-- Git  -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  
-<!--   Python   -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-<!--   Scikit learn   -->
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a> 
-<!--  Pandas -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-<!--   Tensorflow   -->
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-<!--   Seaborn   -->
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a> 
-<!--   OpenCV   -->
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a> 
-<!--  Pytorch  -->
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a>
-  
-<!--   Firebase -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-<!-- Mysql  -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
- <!--   Sqlite   -->
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  </a> 
-<!--   Hive   -->
-  <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/>
-  </a>
-<!-- Appwrite -->
-  <a href="https://appwrite.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> 
-  </a> 
-  
-<!--  Html    -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-<!-- Javascript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-<!--   Bootstap -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/?
-  </a> 
-<!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
 
-<!--  Linux  -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a> 
+<h2><samp>🎨 FRONTEND TECHNOLOGIES</samp></h2>
 
-
-</p>
-
-### 📺 &ensp;Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Flutter Tutorial - Flutter 3.0 - WEB image picker](https://youtu.be/VMmQ0Gx7LAA)
-- [Flutter Tutorial - Flutter 2.0 , Implement Search in Flutter on a listview](https://www.youtube.com/watch?v=XIyyZpZiHWc&t=9s)
-- [Flutter Tutorial - Flutter 3.0 & Stripe Payment integration with Firebase #Stripe](https://youtu.be/BR4sF_VzV0w)
-- [Flutter Tutorial - Google sign in](https://www.youtube.com/watch?v=S0PsfbyVIhk)
-- [Flutter Tutorial - Flutter Video Player in details](https://www.youtube.com/watch?v=N0lUBVYl1hI)
-- [Flutter Tutorial - image picker using camera and gallery, with cool design](https://www.youtube.com/watch?v=7G9cVze5eJU)
-<!-- YOUTUBE:END -->
-
-➡️ &ensp;[More Videos...](https://www.youtube.com/channel/UCTGDYkqUtgCelc6G09LUm6w/videos)
-
- 
-<h3 align="left">Support:</h3>
+<p style="padding: 0px 20px">
+    <img src = "https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white"> 
+    <img src = "https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white">
+    <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white">
+    <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    <img src="https://img.shields.io/badge/react_router%20-CA4245.svg?&style=for-the-badge&logo=react-router&logoColor=white">
+    <img src="https://img.shields.io/badge/styled_components%20-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white">
 <p>
-  <a href="https://www.buymeacoffee.com/hadikachmae"> 
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hadikachmae" />
-  </a>
-</p>
 
-<!--  Trophies-->
-<!-- </br></br></br><hr></br>
-<p align="center"> 
-    <img src="https://github-profile-trophy.vercel.app/?username=hadikachmar3&theme=radical" alt="hadikachmar3" />
-</p>
-</br> -->
+<h2><samp>💻 BACKEND TECHNOLOGIES</samp></h2>
 
-[udemy]: https://www.udemy.com/user/hadi-kachmar-2/
-[youtube]: https://www.youtube.com/channel/UCTGDYkqUtgCelc6G09LUm6w
-[linkedin]: https://www.linkedin.com/in/hadi-kachmar-27a56a177/
-[github]: https://github.com/hadikachmar3
-[email]: mailto:flutterer.dev@gmail.com
-[facebook]: https://www.facebook.com/Coding-with-Hadi-113431577650864/
-[discord]: https://discord.gg/MhnKaY5qdK
-[![GitHub visitor](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=hadikachmar3&repo=Bgstatic&countColorcountColor&countColor=%23007EC6)][github]
+<p style="padding: 0px 20px">
+    <img src="https://img.shields.io/badge/GraphQL%20-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Next%20JS-000000?logo=next-dot-js.svg&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white">
+    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
+    <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+<p>
+
+<h2><samp>🙊 DATABASE MANAGEMENT SYSTEM</samp></h2>
+
+<p style="padding: 0px 20px">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white">
+<p>
+
+
+<h2><samp>🌏 SERVER</samp></h2>
+
+<p style="padding: 0px 20px">
+    <img src="https://img.shields.io/badge/heroku%20-430098.svg?&style=for-the-badge&logo=heroku&logoColor=white">
+    <img src="https://img.shields.io/badge/netlify%20-00C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white">
+    <img src="https://img.shields.io/badge/Digital%20Ocean-0080FF?logo=digitalocean&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge">
+<p>
+
+<h2><samp>🔧 DEVELOPMENT TOOLS</samp></h2>
+
+<p style="padding: 0px 20px">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+    <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jest%20-C21325?logo=jest&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Postman%20-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Docker%20-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Webpack-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=white">
+    <img src="https://img.shields.io/badge/Gulp-%23CF4647.svg?&style=for-the-badge&logo=gulp&logoColor=white">
+    <img src="https://img.shields.io/badge/Yarn%20-2C8EBB?logo=yarn&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Git%20-F05032?logo=git&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/NPM%20-CB3837?logo=npm&logoColor=white&style=for-the-badge" />
+<p>
+
+<h2><samp>QUICK LINKS</samp></h2>
+
+<ul>
+  <li><a href="https://github.com/EbookFoundation/free-programming-books">Free Programming EBooks</a></li>
+  <li><a href="https://github.com/kamranahmedse/developer-roadmaps">Developer Roadmap</a></li>
+  <li><a href="https://github.com/yangshun/tech-interview-handbook">Technical Interview Hanbbook</a></li>
+  <li><a href="https://cloudresumechallenge.dev/">Cloud Resume Challenge</a></li>
+</ul>
