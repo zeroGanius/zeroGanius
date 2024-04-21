@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![zeroGanius's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroGanius)](https://github.com/zeroGanius/github-readme-stats)
+[![zeroGanius's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroGanius&show_icons=true&theme=ambient_gradient)](https://github.com/zeroGanius/github-readme-stats)
