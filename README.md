@@ -14,7 +14,7 @@
 [![Linkedin: HadiKachmar](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/hadi-kachmar-27a56a177/)][linkedin]
 [![Facebook: HadiKachmar](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][facebook]
 [![Discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge)][discord]
-[![website](https://img.shields.io/static/v1?label=isaganibalignasayjr.com%20&message=Subscribe&logo=Website&color=FF0000&style=for-the-badge)][website] 
+[![website](https://img.shields.io/static/v1?label=isaganibalignasayjr.com%20&message=Website&logo=&color=FF0000&style=for-the-badge)][website] 
 [![GitHub followers](https://img.shields.io/github/followers/zeroGanius?logo=GitHub&style=for-the-badge)][github]
 
 <p align="center"> 
