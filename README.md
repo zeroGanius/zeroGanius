@@ -41,6 +41,36 @@
 - 💬 Ask me about **Flutter&Dart&Firebase&AI**
 - 📫 &ensp;How to reach me: [**Linkedin**][linkedin] or [**Email**][email] or [**Facebook**][facebook]
 - 🍺 Fun fact : I Always try to learn something new and then sleep till it store in the brain 😎
+<samp>
+    <ul>
+        <li><strong>What I'm building on my spare time?</strong>
+            <ul>
+              <li><i>Coins Pro (Portfolio) <a href="https://github.com/rookiemonkey/coinspro-portfolio">📦</a></i>
+                <ul>
+                  <li>A cryptocurrency asset management application that syncs with your coins.pro account</li>
+                  <li>There are numerous portfolio applications that is available online but since the value varies depending on the platform, and coins.prop doesn't have a portfolio application yet, I decided to come up on my own (Personal Use Only)</li>
+                </ul>
+              <li><i>Imbitasyon (RSVP App) 🔜</i>
+                <ul>
+                  <li>An application to send virtual invitations to your friend and family members via email</li>
+                  <li>Will be able to track responded/unresponsded invitation via an available dashboard</li>
+                  <li>TRIAL events: allows users to send test invitations to 5 email addresses</li>
+                  <li>PAID events: allows users to send invitations to unlimited amount of email addresses for a PHP 100</li>
+                  <li>PAID events also has an annoucement feature where in the organizer can send send emails to the guests via email in one click</li>
+                </ul>
+              </li>
+            </ul>
+        </li><br/>
+        <li><strong>What I'm planning to study?</strong>
+            <ul>
+                <li>React Native (Mobile Apps) 📱</li>
+                <li>Electron JS (Desktop Apps) 💻</li>
+                <li>Python (Web and Cybersecurity Implementation)🐍</li>
+            </ul>
+        </li>
+    </ul>
+</samp>
+  
 </p>
 <img width='100%' src="https://github-profile-trophy.vercel.app/?username=rookiemonkey&theme=oldie&title=Commit,Issues,Stars,PullRequest,Repositories,Followers">
 <p align="center">
