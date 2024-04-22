@@ -26,7 +26,7 @@
 <!--  Stats -->
 
 <p align= "center">
-   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=hadikachmar3&show_icons=true&theme=radical" />
+   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=zeroGanius&show_icons=true&theme=radical" />
    <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadikachmar3&layout=compact&show_icons=true&theme=radical" />
 
 </br>
@@ -48,8 +48,8 @@
 [youtube]: https://www.youtube.com/channel/UCTGDYkqUtgCelc6G09LUm6w
 [linkedin]: https://www.linkedin.com/in/isagani-balignasay-7a4735210/
 [github]: https://github.com/hadikachmar3
-[email]: mailto:flutterer.dev@gmail.com
-[facebook]: https://www.facebook.com/Coding-with-Hadi-113431577650864/
+[email]: mailto:isaganibalignasayjr@gmail.com
+[facebook]: https://www.facebook.com/isaganibalignasayjrcom/
 [discord]: https://discordapp.com/users/831073676715491389
 
 <h2><samp>💪 STRONG STACK</samp></h2>
