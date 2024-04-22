@@ -10,7 +10,7 @@
 
 <!-- Social -->
 
-[![Youtube](https://img.shields.io/static/v1?label=Coding%20with%20Hadi&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube] 
+[![Youtube](https://img.shields.io/static/v1?label=zeroGanius%20&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube] 
 [![Linkedin: HadiKachmar](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/hadi-kachmar-27a56a177/)][linkedin]
 [![Facebook: HadiKachmar](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][facebook]
 [![Discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge)][discord]
@@ -43,7 +43,7 @@
 
 </br>
 
-[youtube]: https://www.youtube.com/channel/UCTGDYkqUtgCelc6G09LUm6w
+[youtube]: https://www.youtube.com/channel/UCeiC9QBww5IqXC2udu6CsYw
 [linkedin]: https://www.linkedin.com/in/isagani-balignasay-7a4735210/
 [github]: https://github.com/zeroGanius/zeroGanius
 [email]: mailto:isaganibalignasayjr@gmail.com
