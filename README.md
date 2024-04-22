@@ -49,6 +49,7 @@
 [email]: mailto:isaganibalignasayjr@gmail.com
 [facebook]: https://www.facebook.com/isaganibalignasayjrcom/
 [discord]: https://discordapp.com/users/831073676715491389
+[website]: https://discordapp.com/users/831073676715491389
 
 <h2><samp>💪 STRONG STACK</samp></h2>
 
