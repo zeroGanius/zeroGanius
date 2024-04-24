@@ -5,6 +5,14 @@
 </h1>
 <!--  What am I? -->
 <h3 align="center">Front-end Developer | Digital Marketer | SEO Expert</h3>
+### Connect with me:
+
+[<img align="left" alt="exampleuser | Gmail" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/gmail.svg" />][gmail]
+<br />
+<br />
+
+[gmail]: mailto:your.email@gmail.com
+
 
 <br/>
 
